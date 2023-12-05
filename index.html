@@ -1,69 +1,189 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>Adam's Personal Website - Hello!</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Hi, I'm Adam Hennings.</title>
   </head>
-  <body>
-    <h1>Hello!</h1>
-    <p>I'm hosted with GitHub Pages.</p>
-    <h2>Check out my projects!</h2>
-    <ul>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-foor-order/"
-          target="_blank"
-          >Food Order App</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-expense-tracker/"
-          target="_blank"
-          >Expense Tracking App</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-investment-calc/"
-          target="_blank"
-          >Investment Calculator App</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-tic-tac-toe/"
-          target="_blank"
-          >Tic Tac Toe App</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-styling-practice-blog-post/"
-          target="_blank"
-          >Blog Post Webpage</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-chair-retailer-website/"
-          target="_blank"
-          >Chair Retailer Website</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-component-practice/"
-          target="_blank"
-          >Web Components Library</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://henningsadam.github.io/udemy-omnifood-site/"
-          target="_blank"
-          >Omnifood Website</a
-        >
-      </li>
-    </ul>
+  <body class="site">
+    <header class="header">
+      <div class="container">I'm a header.</div>
+    </header>
+    <main class="main">
+      <section class="section-hero">
+        <div class="container">
+          <h1>Hello!</h1>
+          <p>I'm hosted with GitHub Pages.</p>
+        </div>
+      </section>
+      <section class="section section-projects">
+        <div class="container">
+          <h2 class="primary-heading">Check out my projects!</h2>
+          <ul class="projects">
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-foor-order/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-food-order.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Food Order App</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-expense-tracker/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-expense-tracker.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Expense Tracking App</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+            
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-investment-calc/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-investment-calc.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Investment Calculator App</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+            
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-tic-tac-toe/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-tic-tac-toe-app.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Tic Tac Toe App</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+            
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-styling-practice-blog-post/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-blog-post.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Blog Post Webpage</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-chair-retailer-website/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-chair-retailer-site.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Chair Retailer Website</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+            
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-component-practice/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-web-components.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Web Components Library</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+
+            <li class="project">
+              <a
+                href="https://henningsadam.github.io/udemy-omnifood-site/"
+                target="_blank"
+                class="card"
+                ><div class="card-img">
+                  <img
+                    src="./img/screenshots/udemy-omnifood.png"
+                    alt=""
+                    height="100px"
+                  />
+                </div>
+                <div class="card-content">
+                  <p class="card-title">Omnifood Website</p>
+                  <p class="card-description">Here is a short description...</p>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="container">I'm a footer.</div>
+    </footer>
   </body>
 </html>
