@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "name": "Meal Delivery",
+      "description": "This app allows users to browse a menu, add/edit/remove items to their cart, and view their cart.",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-food-order.png",
+        "source": "https://github.com/henningsadam/udemy-foor-order",
+        "demo": "https://henningsadam.github.io/udemy-foor-order/"
+      }
+    },
+    {
+      "name": "Expense Tracking",
+      "description": "This app allows users manage and report on their expenses.",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-expense-tracker.png",
+        "source": "https://github.com/henningsadam/udemy-expense-tracker",
+        "demo": "https://henningsadam.github.io/udemy-expense-tracker/"
+      }
+    },
+    {
+      "name": "Investment Calculator",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-investment-calc.png",
+        "source": "https://github.com/henningsadam/udemy-investment-calc",
+        "demo": "https://henningsadam.github.io/udemy-investment-calc/"
+      }
+    },
+    {
+      "name": "Tic Tac Toe",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-tic-tac-toe-app.png",
+        "source": "https://github.com/henningsadam/udemy-tic-tac-toe",
+        "demo": "https://henningsadam.github.io/udemy-tic-tac-toe/"
+      }
+    },
+    {
+      "name": "Blog",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-blog-post.png",
+        "source": "https://github.com/henningsadam/udemy-styling-practice-blog-post",
+        "demo": "https://henningsadam.github.io/udemy-styling-practice-blog-post/"
+      }
+    },
+    {
+      "name": "Chair Retailer",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-chair-retailer-site.png",
+        "source": "https://github.com/henningsadam/udemy-chair-retailer-website",
+        "demo": "https://henningsadam.github.io/udemy-chair-retailer-website/"
+      }
+    },
+    {
+      "name": "Web UI Components",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-web-components.png",
+        "source": "https://github.com/henningsadam/udemy-component-practice",
+        "demo": "https://henningsadam.github.io/udemy-component-practice/"
+      }
+    },
+    {
+      "name": "Omnifood",
+      "description": "TBD",
+      "tags": ["HTML", "CSS", "React"],
+      "urls": {
+        "screenshot": "./img/screenshots/udemy-omnifood.png",
+        "source": "https://github.com/henningsadam/udemy-omnifood-site",
+        "demo": "https://henningsadam.github.io/udemy-omnifood-site/"
+      }
+    }
+  ]
+}
