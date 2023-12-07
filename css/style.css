@@ -40,12 +40,6 @@ body {
 /* PAGE LAYOUT */
 /************************/
 
-.site {
-  display: grid;
-  grid-template: auto / 1fr;
-  row-gap: 1rem;
-}
-
 .container {
   max-width: 1200px;
   margin: 0 auto;
