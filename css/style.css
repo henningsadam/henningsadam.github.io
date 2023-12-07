@@ -99,7 +99,6 @@ body {
 /************************/
 
 .section-hero {
-  padding: 3rem;
   background-color: var(--color-gray-100);
 }
 
@@ -117,7 +116,7 @@ body {
 
 @media (max-width: 768px) {
   .hero-name {
-    font-size: 5rem;
+    font-size: 4.5rem;
   }
 }
 
