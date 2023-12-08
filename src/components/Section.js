@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
 
-const Section = () => {
+const Section = (props) => {
+  const classes = `section section-${props.name}`;
   return (
-    <div>Section</div>
-  )
-}
+    <section className={classes}>
+      <div class='container'>{props.children}</div>
+    </section>
+  );
+};
 
-export default Section
+export default Section;
