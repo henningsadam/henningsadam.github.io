@@ -1,8 +1,51 @@
+/************************/
+/* DESIGN SYSTEM */
+/************************/
+
 :root {
   /* FONTS */
   --ff-normal: 'Roboto', sans-serif;
 
-  /* COLORS */
+  /* PRIMARY */
+  --color-primary-50: #fafafa;
+  --color-primary-100: #f5f5f5;
+  --color-primary-200: #e5e5e5;
+  --color-primary-300: #d4d4d4;
+  --color-primary-400: #a3a3a3;
+  --color-primary-500: 219 79 66; /* hsl(219, 79%, 66%) */
+  --color-primary-600: #525252;
+  --color-primary-700: #404040;
+  --color-primary-800: #262626;
+  --color-primary-900: #171717;
+  --color-primary-950: #0a0a0a;
+
+  /* SECONDARY */
+  --color-secondary-50: #fafafa;
+  --color-secondary-100: #f5f5f5;
+  --color-secondary-200: #e5e5e5;
+  --color-secondary-300: #d4d4d4;
+  --color-secondary-400: #a3a3a3;
+  --color-secondary-500: #737373;
+  --color-secondary-600: #525252;
+  --color-secondary-700: #404040;
+  --color-secondary-800: #262626;
+  --color-secondary-900: #171717;
+  --color-secondary-950: #0a0a0a;
+  
+  /* NUETRAL */
+  --color-nuetral-50: #fafafa;
+  --color-nuetral-100: #f5f5f5;
+  --color-nuetral-200: #e5e5e5;
+  --color-nuetral-300: #d4d4d4;
+  --color-nuetral-400: #a3a3a3;
+  --color-nuetral-500: #737373;
+  --color-nuetral-600: #525252;
+  --color-nuetral-700: #404040;
+  --color-nuetral-800: #262626;
+  --color-nuetral-900: #171717;
+  --color-nuetral-950: #0a0a0a;
+
+  /* GRAYS */
   --color-gray-50: #fafafa;
   --color-gray-100: #f5f5f5;
   --color-gray-200: #e5e5e5;
@@ -14,6 +57,7 @@
   --color-gray-800: #262626;
   --color-gray-900: #171717;
   --color-gray-950: #0a0a0a;
+
 }
 
 /************************/
