@@ -1,12 +1,4 @@
 import './App.css';
-import expenseTrackerImg from './img/screenshots/udemy-expense-tracker.png';
-import foodOrderImg from './img/screenshots/udemy-food-order.png';
-import blogPostImg from './img/screenshots/udemy-blog-post.png';
-import chairRetailerImg from './img/screenshots/udemy-chair-retailer-site.png';
-import omnifoodImg from './img/screenshots/udemy-omnifood.png';
-import investmentCalcImg from './img/screenshots/udemy-investment-calc.png';
-import ticTacToeImg from './img/screenshots/udemy-tic-tac-toe-app.png';
-import webComponentsImg from './img/screenshots/udemy-web-components.png';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Main from './components/Main';
@@ -48,6 +40,7 @@ function App() {
                   appUrl={project.urls.demo}
                   githubUrl={project.urls.source}
                   screenshotImageUrl={project.urls.screenshot}
+                  tags={project.tags}
                 />
               ))}
             </ul>

@@ -56,8 +56,8 @@ const projects = [
   {
     name: 'Blog',
     description: 'Simple blog post page with an area for the article content as well as a sidebar to view related articles.',
-    type: 'App',
-    tags: ['HTML', 'CSS', 'React'],
+    type: 'Website',
+    tags: ['HTML', 'CSS'],
     urls: {
       screenshot: blogImg,
       source:
@@ -68,8 +68,8 @@ const projects = [
   {
     name: 'Chair Retailer',
     description: 'Marketing website for a furniture retailer that highlights the brand\'s values, customer quotes, and catalog of products.',
-    type: 'App',
-    tags: ['HTML', 'CSS', 'React'],
+    type: 'Website',
+    tags: ['HTML', 'CSS'],
     urls: {
       screenshot: chairRetailerImg,
       source: 'https://github.com/henningsadam/udemy-chair-retailer-website',
@@ -79,8 +79,8 @@ const projects = [
   {
     name: 'Web UI Components',
     description: 'Sampling of a group of themed web UI components that can be used in a variety of projects.',
-    type: 'App',
-    tags: ['HTML', 'CSS', 'React'],
+    type: 'Website',
+    tags: ['HTML', 'CSS'],
     urls: {
       screenshot: webComponentsImg,
       source: 'https://github.com/henningsadam/udemy-component-practice',
@@ -90,8 +90,8 @@ const projects = [
   {
     name: 'Omnifood',
     description: 'Website for a fictional AI-powered food delivery and nutrition full with mutiple sections: hero, testimonials, meals, pricing and form to get started.',
-    type: 'App',
-    tags: ['HTML', 'CSS', 'React'],
+    type: 'Website',
+    tags: ['HTML', 'CSS'],
     urls: {
       screenshot: omnifoodImg,
       source: 'https://github.com/henningsadam/udemy-omnifood-site',

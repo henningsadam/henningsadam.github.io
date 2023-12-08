@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.04b93b5f.css",
-    "main.js": "/static/js/main.c0256c1f.js",
+    "main.js": "/static/js/main.15cb3271.js",
     "static/js/787.395c88b5.chunk.js": "/static/js/787.395c88b5.chunk.js",
     "static/media/udemy-food-order.png": "/static/media/udemy-food-order.08f608f0c5dc1c874ac4.png",
     "static/media/udemy-omnifood.png": "/static/media/udemy-omnifood.ece3c6402a83498419e3.png",
@@ -14,11 +14,11 @@
     "static/media/profile-cartoon.png": "/static/media/profile-cartoon.d2ea588340ed5bcfa1ff.png",
     "index.html": "/index.html",
     "main.04b93b5f.css.map": "/static/css/main.04b93b5f.css.map",
-    "main.c0256c1f.js.map": "/static/js/main.c0256c1f.js.map",
+    "main.15cb3271.js.map": "/static/js/main.15cb3271.js.map",
     "787.395c88b5.chunk.js.map": "/static/js/787.395c88b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04b93b5f.css",
-    "static/js/main.c0256c1f.js"
+    "static/js/main.15cb3271.js"
   ]
 }

@@ -7,6 +7,7 @@ const ProjectCard = ({
   appUrl,
   githubUrl,
   screenshotImageUrl,
+  tags,
 }) => {
   return (
     <li class='project card'>
@@ -22,9 +23,9 @@ const ProjectCard = ({
           <p class='card-description'>{description}</p>
         </div>
         <div class='tags'>
-          <span class='tag tag-language'>HTML</span>
-          <span class='tag tag-language'>CSS</span>
-          <span class='tag tag-language'>React.js</span>
+          {tags.map((tag) => (
+            <span class='tag tag-language'>{tag}</span>
+          ))}
         </div>
         <div class='card-actions'>
           <a
