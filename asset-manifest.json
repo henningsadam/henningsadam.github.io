@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.04b93b5f.css",
-    "main.js": "/static/js/main.309ecc9f.js",
+    "main.js": "/static/js/main.b5104467.js",
     "static/js/787.395c88b5.chunk.js": "/static/js/787.395c88b5.chunk.js",
-    "static/media/udemy-food-order.png": "/static/media/udemy-food-order.08f608f0c5dc1c874ac4.png",
-    "static/media/udemy-omnifood.png": "/static/media/udemy-omnifood.ece3c6402a83498419e3.png",
-    "static/media/udemy-blog-post.png": "/static/media/udemy-blog-post.d8c2d0302fdc278291d9.png",
-    "static/media/udemy-chair-retailer-site.png": "/static/media/udemy-chair-retailer-site.18a5a29b6e6b59b2fb22.png",
-    "static/media/udemy-tic-tac-toe-app.png": "/static/media/udemy-tic-tac-toe-app.bb3b68fcaad2d2196661.png",
-    "static/media/udemy-investment-calc.png": "/static/media/udemy-investment-calc.a8f336bf06930ab7ab30.png",
-    "static/media/udemy-web-components.png": "/static/media/udemy-web-components.1bcbcde496237dae9609.png",
-    "static/media/udemy-expense-tracker.png": "/static/media/udemy-expense-tracker.f5167fcdee68cba2247b.png",
+    "static/media/udemy-omnifood.jpg": "/static/media/udemy-omnifood.e3e4f59b539e317554d6.jpg",
+    "static/media/udemy-food-order.jpg": "/static/media/udemy-food-order.a12b381d0cfa6a9a8da5.jpg",
+    "static/media/udemy-blog-post.jpg": "/static/media/udemy-blog-post.776b6cce3b482e770157.jpg",
+    "static/media/udemy-chair-retailer-site.jpg": "/static/media/udemy-chair-retailer-site.e23e474827718a0f0080.jpg",
+    "static/media/udemy-web-components.jpg": "/static/media/udemy-web-components.81f02de44f2446b31ea8.jpg",
+    "static/media/udemy-expense-tracker.jpg": "/static/media/udemy-expense-tracker.62b4d0d735a2d2bcdab2.jpg",
+    "static/media/udemy-investment-calc.jpg": "/static/media/udemy-investment-calc.32ccb7e0a42a804352c8.jpg",
+    "static/media/udemy-tic-tac-toe-app.jpg": "/static/media/udemy-tic-tac-toe-app.67d05e100cfcba6ac9ad.jpg",
     "static/media/profile-cartoon.png": "/static/media/profile-cartoon.d2ea588340ed5bcfa1ff.png",
     "index.html": "/index.html",
     "main.04b93b5f.css.map": "/static/css/main.04b93b5f.css.map",
-    "main.309ecc9f.js.map": "/static/js/main.309ecc9f.js.map",
+    "main.b5104467.js.map": "/static/js/main.b5104467.js.map",
     "787.395c88b5.chunk.js.map": "/static/js/787.395c88b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04b93b5f.css",
-    "static/js/main.309ecc9f.js"
+    "static/js/main.b5104467.js"
   ]
 }
