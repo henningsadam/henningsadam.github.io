@@ -1,18 +1,18 @@
 import React from 'react';
 
-const ProjectCard = ({
+const CourseCard = ({
   name,
   type,
   description,
-  appUrl,
-  githubUrl,
-  screenshotImageUrl,
+  certificateUrl,
+  courseUrl,
+  imageUrl,
   tags,
 }) => {
   return (
     <li className='project card'>
       <div className='card-img'>
-        <img src={screenshotImageUrl} alt='' />
+        <img src={imageUrl} alt='' />
       </div>
       <div className='card-content'>
         <div className='card-body'>
@@ -20,31 +20,31 @@ const ProjectCard = ({
             {name}
             <span className='tag tag-type'>{type}</span>
           </p>
-          <p className='card-description'>{description}</p>
+          {/* <p className='card-description'>{description}</p> */}
         </div>
-        <div className='tags'>
+        {/* <div className='tags'>
           {tags.map((tag) => (
             <span className='tag tag-language' key={tag}>{tag}</span>
           ))}
-        </div>
+        </div> */}
         <div className='card-actions'>
           <a
-            href={appUrl}
+            href={certificateUrl}
             target='_blank'
             rel='noreferrer'
             className='btn btn-primary'
           >
-            Open
+            View
             <ion-icon className='btn-icon' name='open-outline'></ion-icon>
           </a>
           <a
-            href={githubUrl}
+            href={courseUrl}
             target='_blank'
             rel='noreferrer'
             className='btn btn-secondary'
           >
-            View Source
-            <ion-icon className='btn-icon' name='logo-github'></ion-icon>
+            Course Details
+            {/* <ion-icon className='btn-icon' name='logo-github'></ion-icon> */}
           </a>
         </div>
       </div>
@@ -52,4 +52,4 @@ const ProjectCard = ({
   );
 };
 
-export default ProjectCard;
+export default CourseCard;

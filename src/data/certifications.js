@@ -80,10 +80,10 @@ const certifications = [
     img: principlesDesignImg,
     courseUrl: 'https://www.coursera.org/learn/principles-of-ux-ui-design',
     certificateUrl: 'https://www.coursera.org/account/accomplishments/verify/ZBM52ZDGLU3U'
-  },
+  }
 ]
 
 // https://www.coursera.org/user/a00eee8fc3984fedcfac7614ddc6ab7b
 // https://www.udemy.com/user/adam4/
 
-export default certifications
+export default certifications;
