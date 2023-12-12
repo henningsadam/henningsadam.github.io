@@ -7,8 +7,6 @@ import Section from './components/Section';
 import projects from './data/projects.js';
 
 function App() {
-  const testProject = projects[0];
-  console.log(testProject);
 
   return (
     <>

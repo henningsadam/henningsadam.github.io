@@ -1,11 +1,11 @@
-import mealOrderImg from '../img/screenshots/udemy-food-order.png';
-import expenseTrackingImg from '../img/screenshots/udemy-expense-tracker.png';
-import investmentCalculatorImg from '../img/screenshots/udemy-investment-calc.png';
-import ticTacToeImg from '../img/screenshots/udemy-tic-tac-toe-app.png';
-import blogImg from '../img/screenshots/udemy-blog-post.png';
-import chairRetailerImg from '../img/screenshots/udemy-chair-retailer-site.png'
-import webComponentsImg from '../img/screenshots/udemy-web-components.png'
-import omnifoodImg from '../img/screenshots/udemy-omnifood.png'
+import mealOrderImg from '../img/screenshots/udemy-food-order.jpg';
+import expenseTrackingImg from '../img/screenshots/udemy-expense-tracker.jpg';
+import investmentCalculatorImg from '../img/screenshots/udemy-investment-calc.jpg';
+import ticTacToeImg from '../img/screenshots/udemy-tic-tac-toe-app.jpg';
+import blogImg from '../img/screenshots/udemy-blog-post.jpg';
+import chairRetailerImg from '../img/screenshots/udemy-chair-retailer-site.jpg'
+import webComponentsImg from '../img/screenshots/udemy-web-components.jpg'
+import omnifoodImg from '../img/screenshots/udemy-omnifood.jpg'
 
 const projects = [
   {
